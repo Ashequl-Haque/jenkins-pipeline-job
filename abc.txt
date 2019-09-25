@@ -1,1 +1,1 @@
-Hello, this is a file for testing jenkins pipeline job. I am using docker for this. Let's see if i am successful or not. 
+Yeah, I am successful to do my first jenkins-pipeline job by my own. It was really fun to do. Thanks everyone. It is really a good learning. 
